@@ -846,7 +846,7 @@ actionTypes.grow = function(critter) {
 };
 ----
 
-Growing always succeeds and adds half a point to the plant's
+Growing always succeeds and adds half a point to the critter's
 ((energy)) level.
 
 Moving is more involved.
